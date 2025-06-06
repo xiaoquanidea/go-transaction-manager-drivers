@@ -1,4 +1,4 @@
-module github.com/xiaoquanidea/go-transaction-manager-drivers/mongo/v2
+module github.com/xiaoquanidea/go-transaction-manager-drivers/mongo
 
 go 1.24
 
