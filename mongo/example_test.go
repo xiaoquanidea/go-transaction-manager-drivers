@@ -11,7 +11,6 @@ import (
 	"go.mongodb.org/mongo-driver/v2/mongo"
 	"go.mongodb.org/mongo-driver/v2/mongo/options"
 
-	trmmongo "github.com/avito-tech/go-transaction-manager/drivers/mongo/v2"
 	"github.com/avito-tech/go-transaction-manager/trm/v2/manager"
 )
 
