@@ -3,8 +3,9 @@ package mongo
 import (
 	"context"
 	"github.com/avito-tech/go-transaction-manager/trm/v2"
-	trmcontext "github.com/avito-tech/go-transaction-manager/trm/v2/context"
 	"go.mongodb.org/mongo-driver/v2/mongo"
+
+	trmcontext "github.com/avito-tech/go-transaction-manager/trm/v2/context"
 )
 
 // DefaultCtxGetter is the CtxGetter with settings.DefaultCtxKey.
